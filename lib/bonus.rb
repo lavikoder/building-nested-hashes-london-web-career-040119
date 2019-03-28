@@ -23,8 +23,8 @@ def bonus
   #code your solution here:
 #by using the hash:[key]:[key]:[key] = new_value formula we can now change the value of the hero & heroines status
 
-epic_tragedy[:montague][:hero][:status] = "Dead"
-epic_tragedy[:capulet][:heroine][:status] = "Dead"
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"
  
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
